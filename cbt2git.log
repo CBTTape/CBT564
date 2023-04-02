@@ -1,0 +1,9 @@
+2023-04-03 01:12:03.469797 - Initialized conversion of CBT564
+2023-04-03 01:12:03.763655 - Received CBT.V504.FILE564.PDS from FILE564.XMI 
+2023-04-03 01:12:03.766458 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE564.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:12:03.767651 - Found $$README.txt (text/plain) in CBT.V504.FILE564.PDS, moved to PDS/$$README
+2023-04-03 01:12:03.768777 - Found $PDSLOAD.jcl (text/plain) in CBT.V504.FILE564.PDS, moved to PDS/$PDSLOAD
+2023-04-03 01:12:03.769969 - Found @FILE564.txt (text/plain) in CBT.V504.FILE564.PDS, moved to PDS/@FILE564
+2023-04-03 01:12:03.769980 - Found DATA.bin containing application/octet-stream, moved to PDS/DATA
+2023-04-03 01:12:03.772163 - Found INSTRUCT.bin containing application/octet-stream, moved to PDS/INSTRUCT
+2023-04-03 01:12:03.777784 - Found MEMORY.txt (text/plain) in CBT.V504.FILE564.PDS, moved to PDS/MEMORY
